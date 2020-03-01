@@ -44,13 +44,13 @@ h1{
 
 .restaurant-list div:hover {
   background-color: #7AAB71;
-}
+} /* hover color */
 
 .arrow{
   float: right;
 }
 
 .content{
-  display: inline-block;
+  display: inline-block; /* arrow on the same line as restaurant info */
   padding: 0px 20px 5px 20px;
 }
